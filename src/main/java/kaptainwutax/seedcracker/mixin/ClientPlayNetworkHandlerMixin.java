@@ -68,6 +68,7 @@ public abstract class ClientPlayNetworkHandlerMixin {
 
         if(SeedCracker.get().getDataStorage().addHashedSeedData(hashedSeedData, DataAddedEvent.POKE_BIOMES)) {
             Log.warn("Fetched hashed world seed [" + hashedSeedData.getHashedSeed() + "].");
+            Log.warn("Use the /seed recrack command to crack the seed on another world")
         }
 
         SeedCracker.get().setActive(SeedCracker.get().isActive());
