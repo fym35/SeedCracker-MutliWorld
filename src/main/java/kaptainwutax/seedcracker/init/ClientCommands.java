@@ -32,6 +32,7 @@ public class ClientCommands {
         COMMANDS.add(DATA = new DataCommand());
         COMMANDS.add(CRACKER = new CrackerCommand());
         COMMANDS.add(VERSION = new VersionCommand());
+        COMMANDS.add(RECRACK = new RecrackCommand());
     }
 
     public static void registerCommands(CommandDispatcher<ServerCommandSource> dispatcher) {
