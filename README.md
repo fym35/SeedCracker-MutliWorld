@@ -11,6 +11,7 @@ I may do a pr to the original repo but right now its kinda crappy and i also fee
 
 Credits :
 CapitainWutax - the original mod creator
+Everyone else who contributed to the mod
 
 ## Installation
 
