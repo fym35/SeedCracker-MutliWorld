@@ -1,4 +1,16 @@
 # SeedCracker [![Github All Releases](https://img.shields.io/github/downloads/KaptainWutax/SeedCracker/total.svg)]()
+## ⚠THIS FORK IS NOT YET COMPLETED AND IT WONT WORK IN THE CURRENT STATE⚠
+
+
+
+
+## Seed cracker mod with multi-world support 
+-added /seed recrack command to work on multiverse/multworld servers
+
+I may do a pr to the original repo but right now its kinda crappy and i also feel like this isnt the best solution for multiworld support ¯\_(ツ)_/¯
+
+Credits :
+CapitainWutax - the original mod creator
 
 ## Installation
 
